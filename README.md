@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/starlitsupper">
-    <img src="https://github-profile-3d-contrib.vercel.app/view?username=starlitsupper&theme=radical" width="800" />
+    <img src="https://github-profile-3d-contrib.vercel.app/view?username=starlitsupper&theme=radical" onerror="this.parentElement.style.display='none'" width="800" />
   </a>
 </p>
 
