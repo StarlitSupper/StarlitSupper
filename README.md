@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hello, I'm StarlitSupper! ✨</h1>
-<h3 align="center">🔭 Developer | 🌌 Open Source Enthusiast | 🚀 Tech Explorer</h3>
+<h3 align="center">🔭 Full-Stack Developer | 🌌 Open Source Contributor | 🦈 Blåhaj Caretaker</h3>
 
 <p align="center">
   <a href="https://github.com/starlitsupper"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=7F00FF&width=550&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+%3A\)" alt="Typing Animation" /> </a>
